@@ -1,4 +1,4 @@
-- user: xxavi
+- user: ariiana
 - interested in web dev
 - learning HTML, CSS, JavaScript, Python, & Java.
 - "the snack that smiles back" - goldfish
